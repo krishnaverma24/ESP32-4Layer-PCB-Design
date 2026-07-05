@@ -1,0 +1,33 @@
+Drill report for ESP32 ON BOARD SENSOR.kicad_pcb
+Created on 2026-07-06T00:54:35
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'ESP32 ON BOARD SENSOR-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.250mm  0.0098"  (205 holes))
+    T2  0.300mm  0.0118"  (22 holes))
+    T3  0.300mm  0.0118"  (12 holes))
+    T4  0.450mm  0.0177"  (14 holes))
+    T5  0.650mm  0.0256"  (4 holes)  (with 4 slots)
+    T6  0.700mm  0.0276"  (2 holes))
+    T7  1.000mm  0.0394"  (9 holes))
+
+    Total plated holes count 268
+
+
+Drill file 'ESP32 ON BOARD SENSOR-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  1.150mm  0.0453"  (1 hole)
+    T2  1.650mm  0.0650"  (1 hole)
+    T3  2.500mm  0.0984"  (4 holes))
+
+    Total unplated holes count 6
